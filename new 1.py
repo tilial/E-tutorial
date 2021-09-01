@@ -9,3 +9,7 @@ x= ("Geben sie eine Zahl ein")
 
 
 input("Geben sie eine Zahl ein")
+
+print(type(hallo))
+
+x = (input(20))
